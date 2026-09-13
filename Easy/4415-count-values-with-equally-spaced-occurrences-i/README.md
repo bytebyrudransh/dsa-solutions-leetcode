@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Language:** Python  
-**Runtime:** 5 ms  
+**Runtime:** 16 ms  
 **Memory:** 12.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/)
 
