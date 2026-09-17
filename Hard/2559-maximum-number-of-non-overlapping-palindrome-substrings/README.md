@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Language:** Python  
-**Runtime:** 420 ms  
+**Runtime:** 423 ms  
 **Memory:** 12.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)
 
