@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy  
 **Language:** Python3  
-**Runtime:** 0 ms  
-**Memory:** 20.4 MB  
+**Runtime:** 773 ms  
+**Memory:** 20.5 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/move-zeroes/)
 
 ## Problem Description
