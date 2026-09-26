@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Language:** Python3  
 **Runtime:** 0 ms  
-**Memory:** 19.3 MB  
+**Memory:** 19.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 ## Problem Description
