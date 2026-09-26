@@ -1,9 +1,9 @@
 # [LeetCode] Roman to Integer
 
 **Difficulty:** Easy  
-**Language:** Python  
-**Runtime:** 5 ms  
-**Memory:** 12.3 MB  
+**Language:** Python3  
+**Runtime:** 7 ms  
+**Memory:** 19 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/roman-to-integer/)
 
 ## Problem Description
