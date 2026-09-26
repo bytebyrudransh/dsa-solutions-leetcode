@@ -1,9 +1,9 @@
 # [LeetCode] Longest Common Prefix
 
 **Difficulty:** Easy  
-**Language:** Python  
-**Runtime:** 24 ms  
-**Memory:** 12.4 MB  
+**Language:** Python3  
+**Runtime:** 0 ms  
+**Memory:** 19.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/longest-common-prefix/)
 
 ## Problem Description
