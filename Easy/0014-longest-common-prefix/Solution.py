@@ -1,16 +1,11 @@
-class Solution(object):
-    def longestCommonPrefix(self, strs):
-        if not strs:
-            return ""
-
-        strs.sort()
-        
-        first = strs[0]
-        last = strs[-1]
-        i = 0
-        
-        # Compare characters of the first and last string
-        while i < len(first) and i < len(last) and first[i] == last[i]:
-            i += 1
-            
-        return first[:i]
+class Solution:
+    def longestCommonPrefix(self, v: List[str]) -> str:
+        ans=""
+        v=sorted(v)
+        first=v[0]
+        last=v[-1]
+        for i in range(min(len(first),len(last))):
+            if(first[i]!=last[i]):
+                return ans
+            ans+=first[i]
+        return ans 
