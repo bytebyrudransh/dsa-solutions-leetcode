@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 13 ms  
-**Memory:** 25.1 MB  
+**Runtime:** 27 ms  
+**Memory:** 25.2 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## Problem Description
