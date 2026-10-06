@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy  
 **Language:** Python3  
-**Runtime:** 0 ms  
-**Memory:** 19.2 MB  
+**Runtime:** 3 ms  
+**Memory:** 19.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/is-subsequence/)
 
 ## Problem Description
