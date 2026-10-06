@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 265 ms  
+**Runtime:** 267 ms  
 **Memory:** 20 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
