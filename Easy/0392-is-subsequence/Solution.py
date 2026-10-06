@@ -1,9 +1,12 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        s = deque(s)
-        
+
+        i = 0
+
         for char in t:
-            if s and char == s[0]:
-                s.popleft()
-        
-        return len(s) == 0
+            if i == len(s):
+                return True
+            elif char == s[i]:
+                i += 1
+
+        return i == len(s)
