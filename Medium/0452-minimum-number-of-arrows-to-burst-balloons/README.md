@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 214 ms  
-**Memory:** 53.8 MB  
+**Runtime:** 140 ms  
+**Memory:** 53.6 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 ## Problem Description
