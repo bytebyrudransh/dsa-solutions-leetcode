@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Language:** Python3  
-**Runtime:** 62 ms  
+**Runtime:** 4 ms  
 **Memory:** 19.2 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/valid-parentheses/)
 
