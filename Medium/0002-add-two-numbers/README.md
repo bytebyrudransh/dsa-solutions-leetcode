@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 51 ms  
-**Memory:** 19.3 MB  
+**Runtime:** 4 ms  
+**Memory:** 19.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/add-two-numbers/)
 
 ## Problem Description
