@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy  
 **Language:** Python3  
-**Runtime:** 1 ms  
-**Memory:** 23.2 MB  
+**Runtime:** 4 ms  
+**Memory:** 23.1 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Problem Description
