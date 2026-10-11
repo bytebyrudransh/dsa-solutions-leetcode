@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 0 ms  
-**Memory:** 19.4 MB  
+**Runtime:** 1 ms  
+**Memory:** 19.3 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## Problem Description
