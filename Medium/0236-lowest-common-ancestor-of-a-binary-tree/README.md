@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Language:** Python3  
-**Runtime:** 142 ms  
+**Runtime:** 127 ms  
 **Memory:** 50.7 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
